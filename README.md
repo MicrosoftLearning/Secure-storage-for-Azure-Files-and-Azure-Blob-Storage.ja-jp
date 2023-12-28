@@ -1,2 +1,25 @@
-# Secure-storage-for-Azure-Files-and-Azure-Blob-Storage.ja-jp
-Japanese repo for Secure-storage-for-Azure-Files-and-Azure-Blob-Storage
+# Azure Files と Azure Blob Storage をセキュリティで保護する
+
+HTML ページ[**をお**](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)探しですか?
+
+**あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
+
+## 説明
+
+- このコースをサポートするには、コースで使用される Microsoft サービスを最新の状態に保つために、コース コンテンツを頻繁に更新する必要があります。 コース作成者と MCT (Microsoft 認証トレーナー) の間のオープンな貢献を可能にし、製品の変更に合わせてコンテンツを最新の状態に保つために、GitHub でラボの手順とラボ ファイルを公開しています。
+
+- これにより、これまでになかったようなコラボレーションの効果をラボで実現することができます。Azure や Microsoft 365 などの Microsoft サービスが変更され、ライブ配信中に最初に変更箇所に気付いた場合は、ラボ ソースですぐに改善を図ってください。 仲間の MCT を支援しましょう。
+
+## このリポジトリを使用する方法
+
+- インストラクターの資料は、コースの内容を教えるための主要な情報源です。
+
+- GitHub 上のこれらのファイルは、ホストされたラボ環境を使用して、コース ラボで使用するように設計されています。
+
+- 講師は、ラボを行うたびに、最新の Microsoft クラウド サービスに合わせて修正された箇所がないか GitHub を確認し、最新のラボ用ファイルを取得してください。
+
+## 貢献するには?
+
+- すべての MCT (Microsoft 認証トレーナー) は、GitHub リポジトリ内のコードまたはコンテンツに pull request を送信できます。 Microsoft とコースの作成者は、必要に応じて、コンテンツとラボ コードの変更をトリアージして含めます。
+
+- バグ、変更、改善、アイデアを提出できます。 新しい Azure または Microsoft 365 機能を先に見つけたら、 新しいデモを提出しましょう。
