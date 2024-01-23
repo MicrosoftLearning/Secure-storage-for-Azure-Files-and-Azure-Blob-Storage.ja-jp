@@ -18,7 +18,7 @@ demo:
 
 1. **マネージド ID** を作成します。 [マネージド ID](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview) に関する詳細を確認します。
 
-1. **キー コンテナー**を作成してください。 既定値を使用します。**ただし**、**[アクセス構成]** タブで **[Vault アクセス ポリシー]** がオンになっていることを確認します。 [Azure Key Vault](https://learn.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に関する詳細を確認します。
+1. **キー コンテナー**を作成してください。 既定値を使用します。**ただし**、**[アクセス構成]** タブで、**[Azure ロールベースのアクセス制御 (推奨)]** が選択されていることを確認します。 [Azure Key Vault](https://learn.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に関する詳細を確認します。
 
 1. キー コンテナーがデプロイされるまで待ってから、**リソースに移動します**。
 
