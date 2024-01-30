@@ -50,7 +50,7 @@ demo:
 
 1. ページの上部にある設定を確認します。 たとえば、**アップロード**して**サイズとパフォーマンスを変更します**。
 
-1. スナップショットの目的について説明します。 [ファイル共有のスナップショット](https://learn.microsoft.com/azure/storage/files/storage-snapshots-files)に関する詳細を確認します。
+1. [補足スライド] スナップショットの目的について説明します。 [ファイル共有のスナップショット](https://learn.microsoft.com/azure/storage/files/storage-snapshots-files)に関する詳細を確認します。
 
 1. **[操作]** ブレードで、**[スナップショット]** を選択します。
 
