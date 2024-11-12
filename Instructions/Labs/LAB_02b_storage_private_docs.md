@@ -101,3 +101,21 @@ lab:
 
 >**注**: さらに演習をするには、「[Azure BLOB ストレージの構成](https://learn.microsoft.com/training/modules/configure-blob-storage/)」モジュールを完了してください。 モジュールには対話型のラボ シミュレーションがあり、BLOB ストレージの作成を演習できます。 
 
+## Copilot を使用して学習を拡張する
+
+Copilot は、あなたの学習体験に役立ちます。 Copilot では、基本的な技術情報、手順の概要、長所と短所、トラブルシューティングのヘルプ、使用例、コーディング例などを提供できます。 Copilot にアクセスするには、Edge ブラウザーを開き、Copilot (右上) を選択します。 次のプロンプトを試すには数分かかります。
++ Azure Storage の保護に使用できるセキュリティ機能は何ですか?
++ Azure SAS とは何ですか? また、どのように使用しますか?
+
+## 自習トレーニングでさらに学習する
+
++ [Azure Storage のセキュリティの構成](https://learn.microsoft.com/training/modules/configure-storage-security/) このモジュールでは、ストレージ アクセス署名などの一般的な Azure Storage セキュリティ機能を構成する方法を説明します。
++ [Azure Blob Storage のライフサイクルの管理](https://learn.microsoft.com/training/modules/configure-storage-security/) このモジュールでは、Azure BLOB Storage のライフサイクル全体を通じてデータの可用性を管理する方法について説明します。
+
+## 要点
+
+以上でラボは完了です。 このラボの要点は次のとおりです。 
++ Azure Storage には、暗号化、アクセスの制御、ネットワーク セキュリティ、監視、アラートなど、多くのデータ保護機能があります。 
++ Shared Access Signature (SAS) を使用すると、ストレージ アカウント内のリソースへのセキュリティで保護された委任アクセスが可能になります。 SAS を使用すると、クライアントがデータにアクセスする方法をきめ細かく制御できます。
++ Azure Blob Storage のライフサイクル管理にはルールベースのポリシーが用意されており、これを使用すると、最適なアクセス層に BLOB データを移行したり、データ ライフサイクルの最後にデータを期限切れにしたりすることができます。
++ オブジェクト レプリケーションを使用すると、ソース ストレージ アカウントと宛先アカウントの間でブロック BLOB を非同期にコピーできます。
