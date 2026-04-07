@@ -2,6 +2,13 @@
 lab:
   title: '演習 01: IT 部門のテストとトレーニング用のストレージを提供する'
   module: Guided Project - Azure Files and Azure Blobs
+  description: 基本的なストレージ アカウントを作成して構成します。
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Storage accounts
 ---
 
 IT 部門は、さまざまなストレージ シナリオのプロトタイプを作成し、新しい担当者をトレーニングする必要があります。 バックアップするほど重要なコンテンツではないため、データが上書きまたは削除されても復元する必要はありません。 簡単に変更できるシンプルな構成が望まれます。
