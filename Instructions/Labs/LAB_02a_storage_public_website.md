@@ -2,7 +2,16 @@
 lab:
   title: '演習 02a: パブリック Web サイト用のストレージを提供する'
   module: Guided Project - Azure Files and Azure Blobs
+  description: BLOB ストレージを作成して構成する。
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Storage accounts
+    - Blob storage
 ---
+
 会社の Web サイトでは、製品イメージ、ビデオ、マーケティング資料、顧客の成功事例を提供しています。 世界各地に顧客を抱え、需要が急速に拡大しています。 コンテンツはミッション クリティカルであり、読み込み時間が低遅延である必要があります。 ドキュメントのバージョンを追跡し、ドキュメントが削除された場合はすばやく復元することが重要です。
 
 ## アーキテクチャ ダイアグラム

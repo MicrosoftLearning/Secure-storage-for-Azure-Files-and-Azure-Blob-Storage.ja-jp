@@ -2,7 +2,16 @@
 lab:
   title: '演習 04: 新しい会社アプリ用のストレージを提供する'
   module: Guided Project - Azure Files and Azure Blobs
+  description: キーとマネージド ID を使ってストレージ アクセスを構成します。
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Key vault
+    - Storage security
 ---
+
 会社は、新しいアプリの設計と開発を行っています。 開発者は、キーとマネージド ID のみを使用してストレージにアクセスできるようにする必要があります。 開発者は、ロールベースのアクセス制御を使用したいと考えています。 テストを支援するには、保護された不変ストレージが必要です。 
 
 ## アーキテクチャ ダイアグラム

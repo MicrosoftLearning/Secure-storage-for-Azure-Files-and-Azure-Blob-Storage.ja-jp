@@ -1,18 +1,10 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
 # Azure Files と Azure Blob Storage をセキュリティで保護する
 
-HTML ページ[**をお**](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)探しですか?
+デモとラボへのリンク (**[HTML バージョン](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)**)。
 
 **あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 
-## 説明
+## ここでの内容
 
 - このコースをサポートするには、コースで使用される Microsoft サービスを最新の状態に保つために、コース コンテンツを頻繁に更新する必要があります。 コース作成者と MCT (Microsoft 認証トレーナー) の間のオープンな貢献を可能にし、製品の変更に合わせてコンテンツを最新の状態に保つために、GitHub でラボの手順とラボ ファイルを公開しています。
 
@@ -26,8 +18,8 @@ HTML ページ[**をお**](https://microsoftlearning.github.io/Secure-storage-fo
 
 - 講師は、ラボを行うたびに、最新の Microsoft クラウド サービスに合わせて修正された箇所がないか GitHub を確認し、最新のラボ用ファイルを取得してください。
 
-## 貢献するには?
+## リクエストやフィードバックについて
 
 - すべての MCT (Microsoft 認証トレーナー) は、GitHub リポジトリ内のコードまたはコンテンツに pull request を送信できます。 Microsoft とコースの作成者は、必要に応じて、コンテンツとラボ コードの変更をトリアージして含めます。
 
-- バグ、変更、改善、アイデアを提出できます。 新しい Azure または Microsoft 365 機能を先に見つけたら、 新しいデモを提出しましょう。
+- バグ、変更、改善、アイデアを提出できます。 新しい Azure または Microsoft 365 の機能を先に見つけたら、 新しいデモを提出しましょう。
