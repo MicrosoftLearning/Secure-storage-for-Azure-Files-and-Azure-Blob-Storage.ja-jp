@@ -2,8 +2,14 @@
 lab:
   title: '演習 02b: 社内ドキュメント用のプライベート ストレージを提供する'
   module: Guided Project - Azure Files and Azure Blobs
+  description: ストレージ セキュリティを作成して構成します。
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Storage security
 ---
-
 
 会社は、オフィスおよび部門用のストレージを必要としています。 この内容は会社のプライベートなものであり、同意なしに共有することはできません。 このストレージには、リージョンの停止が発生した場合の高可用性が必要です。 会社は、このストレージを使用してパブリック Web サイトをバックアップしたいと考えています。 
 
@@ -112,7 +118,6 @@ Copilot は、あなたの学習体験に役立ちます。 Copilot では、基
 ## 自習トレーニングでさらに学習する
 
 + [Azure Storage のセキュリティの構成](https://learn.microsoft.com/training/modules/configure-storage-security/) このモジュールでは、ストレージ アクセス署名などの一般的な Azure Storage セキュリティ機能を構成する方法を説明します。
-+ [Azure Blob Storage のライフサイクルの管理](https://learn.microsoft.com/training/modules/configure-storage-security/) このモジュールでは、Azure BLOB Storage のライフサイクル全体を通じてデータの可用性を管理する方法について説明します。
 
 ## 要点
 

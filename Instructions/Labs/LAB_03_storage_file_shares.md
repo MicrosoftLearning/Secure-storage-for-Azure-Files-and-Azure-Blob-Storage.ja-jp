@@ -2,8 +2,14 @@
 lab:
   title: '演習 03: 会社のオフィスの共有ファイル ストレージを提供する'
   module: Guided Project - Azure Files and Azure Blobs
+  description: ファイル共有を作成および構成します。
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - File shares
 ---
-
 
 会社は地理的に異なる場所にオフィスを分散しています。  これらのオフィスには、ファイルを共有し、情報を配布する方法が必要です。 たとえば、財務部門は、監査とコンプライアンスのコスト情報を確認する必要があります。 このファイル共有は、遅延なく簡単にアクセスして読み込むことができる必要があります。 一部のコンテンツには、選択した企業仮想ネットワークからのみアクセスする必要があります。
 
@@ -111,7 +117,7 @@ Copilot は、あなたの学習体験に役立ちます。 Copilot では、基
 
 ## 自習トレーニングでさらに学習する
 
-+ [Azure Files と Azure File Sync を構成](https://learn.microsoft.com/en-us/training/modules/configure-azure-files-file-sync/)。このモジュールでは、Azure ファイル共有とファイル共有スナップショットを構成する方法について説明しています。
++ [Azure Files を構成します](https://learn.microsoft.com/en-us/training/modules/configure-azure-files-file-sync/)。 このモジュールでは、Azure ファイル共有とファイル共有スナップショットを構成する方法について説明します。
 
 ## 要点
 
